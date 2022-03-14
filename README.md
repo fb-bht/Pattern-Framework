@@ -24,4 +24,4 @@ Die linke und rechte Begrenzung des Spielfelds lässt die Neutralen davon abpral
 ![Spielfeld](/images/spielfeld.png)
 
 ### Steuerung
-Mit der Leertaste wird eine Angriffszelle vom Spieler gestartet.
+Mit den Buchstaben "C" für Zelle und "V" für Virus wird eine Angriffszelle vom Spieler gestartet.
