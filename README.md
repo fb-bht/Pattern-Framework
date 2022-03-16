@@ -5,6 +5,10 @@
 ### Übersicht
 „Zell-Attacke“ ist ein Spiel für zwei Spieler. Zu Beginn entscheidet man sich für eine Fraktion – entweder „Zelle“ oder „Virus“. Ziel ist es den Gegenspieler durch Angriffsaktionen zu besiegen.
 
+### Spiel
+* [Frontend](https://github.com/fb-bht/ZellAttacke)
+* [Backend](https://github.com/fb-bht/ZellAttacke-JWTBackend)
+
 ### Avatar
 Der Avatar des Spielers ist entweder ein Virus oder eine Zelle (im Folgenden als Kern bezeichnet).
 
@@ -25,3 +29,5 @@ Die linke und rechte Begrenzung des Spielfelds lässt die Neutralen davon abpral
 
 ### Steuerung
 Mit den Buchstaben "C" für Zelle und "V" für Virus wird eine Angriffszelle vom Spieler gestartet.
+
+
